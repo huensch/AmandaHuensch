@@ -8,10 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - research.qmd
+      - href: Huensch_CV.pdf
+        text: CV
+        target: _blank
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
         href: https://github.com/huensch/AmandaHuensch
   page-footer:
@@ -20,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: sandstone
     toc: true
 
 editor: source

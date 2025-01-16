@@ -1,0 +1,13 @@
+---
+title: "Research"
+format: 
+  html:
+    toc: true
+    code-fold: true
+---
+
+## Journal Articles
+
+## Book Chapters
+
+## Project 3
