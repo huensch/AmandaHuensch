@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: publications.qmd
+        text: TestP
       - research.qmd
       - href: Huensch_CV.pdf
         text: CV

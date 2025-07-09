@@ -33,5 +33,19 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Note: * corresponding author; GS graduate student advisee;\nTotal citations as of July 2025:"
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\n*Chau, T., and Huensch, A. (2025). The relationships among L2 fluency, intelligibility, comprehensibility, and accentedness: A meta-analysis.. Studies in Second Language Acquisition 612: 83–87. doi: https://doi.org/10.1017/S0272263125000014.\ndata, materials, and analysis code: https://osf.io/dtp8z/"
   }
 ]

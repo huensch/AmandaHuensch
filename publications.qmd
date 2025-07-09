@@ -1,0 +1,21 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+---
+
+Note: \* corresponding author; <sup>GS</sup> graduate student advisee;
+
+Total citations as of July 2025:
+   
+- [Google Scholar](https://scholar.google.com/citations?user=HMwqhe8AAAAJ&hl=en&oi=ao): 1019 (h-index = 16, i10-index = 22) 
+
+## Selected Work
+
+\*Chau, T., and **Huensch, A.** (2025). [The relationships among L2 fluency, intelligibility, comprehensibility, and accentedness: A meta-analysis.](https://doi.org/10.1017/S0272263125000014). *Studies in Second Language Acquisition* 612: 83–87. doi: [https://doi.org/10.1017/S0272263125000014](https://doi.org/10.1017/S0272263125000014).
+
+**data, materials, and analysis code**: [https://osf.io/dtp8z/](https://osf.io/dtp8z/)
+
+<center><hr style="width:50%"></center>
