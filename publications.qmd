@@ -8,7 +8,7 @@ title-block-banner: false
 
 Note: \* graduate student advisee;
 
-- [Google Scholar](https://scholar.google.com/citations?user=HMwqhe8AAAAJ&hl=en&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=HMwqhe8AAAAJ&hl=en&oi=ao){target="_blank"}
 
 ## Selected Work
 
