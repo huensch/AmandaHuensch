@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: publications.qmd
-        text: TestP
+        text: Publications
       - research.qmd
       - href: Huensch_CV.pdf
         text: CV
