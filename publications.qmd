@@ -10,10 +10,16 @@ Note: \* graduate student advisee;
 
 - [Google Scholar](https://scholar.google.com/citations?user=HMwqhe8AAAAJ&hl=en&oi=ao){target="_blank"}
 
-## Selected Work
+## Journal Articles
 
 \*Chau, T., and **Huensch, A.** (2025). The relationships among L2 fluency, intelligibility, comprehensibility, and accentedness: A meta-analysis. *Studies in Second Language Acquisition*. [https://doi.org/10.1017/S0272263125000014](https://doi.org/10.1017/S0272263125000014){target="_blank"}
 
 **data, materials, and analysis code**: [https://osf.io/dtp8z/](https://osf.io/dtp8z/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+## Book Chapters
+
+\*Leal-Arenas, S., and **Huensch, A.** (accepted). Using Memoji facial gestures to enhance L2 word stress perception. In E. Tergujeff & A. Kirkova-Naskova (Eds.), *Achievements in L2 Pronunciation*.
 
 <center><hr style="width:50%"></center>
