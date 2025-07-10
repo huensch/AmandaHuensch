@@ -6,7 +6,7 @@ description-meta: "Information, pdfs, and social metrics of papers"
 title-block-banner: false
 ---
 
-Note: \* graduate student advisee;
+Note: \* graduate student co-author
 
 - [Google Scholar](https://scholar.google.com/citations?user=HMwqhe8AAAAJ&hl=en&oi=ao){target="_blank"}
 
@@ -29,6 +29,8 @@ Tracy-Ventura, N., **Huensch, A.**, Katz, J., & Mitchell, R. (2025). Is L2 attri
 **data, materials, and analysis code**: [https://osf.io/fxzvj/](https://osf.io/fxzvj/){target="_blank"}
 
 **preregistration**: [https://osf.io/w4gj2 ](https://osf.io/w4gj2 ){target="_blank"}
+
+**Award**: [2024 IRIS Replication Award](https://www.iris-database.org/replication-award/)  
 
 <center><hr style="width:50%"></center>
 
