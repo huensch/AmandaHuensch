@@ -1,5 +1,5 @@
 ---
-title: "Amanda Huensch"
+title: ""
 about:
   id: me
   template: trestles
