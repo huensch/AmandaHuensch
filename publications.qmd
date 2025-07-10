@@ -38,6 +38,30 @@ Al-Hoorie, A., Cinaglia, C., Hiver, P., **Huensch, A.**, Isbell, D., Leung, C., 
 
 <center><hr style="width:50%"></center>
 
+**Huensch, A.** (2023). Effects of speaking task and proficiency on the mid-clause pausing characteristics of L1 and L2 speech from the same speakers. *Studies in Second Language Acquisition, 45*, 1031-1055. [https://doi.org/10.1017/S0272263123000323](https://doi.org/10.1017/S0272263123000323){target="_blank"}
+
+**data and analysis code**: [https://osf.io/dn6v3/](https://osf.io/dn6v3/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+Brown, D., Fernandez, J., **Huensch, A.** (2023). The role of pragmatic markers in perceptions of L2 fluency in dialogue. *System, 119*, 103157. [https://doi.org/10.1016/j.system.2023.103157]( https://doi.org/10.1016/j.system.2023.103157){target="_blank"}
+
+**data and analysis code**: [https://osf.io/yb8dk/](https://osf.io/yb8dk/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+Nagle, C., **Huensch, A.**, & Zárate-Sández, G. (2023). Exploring phonetic predictors of intelligibility, comprehensibility, and foreign accent in L2 Spanish speech. *Modern Language Journal, 107*, 202-221. [https://doi.org/10.1111/modl.12827]( https://doi.org/10.1111/modl.12827){target="_blank"}
+
+**data and analysis code**: [https://osf.io/m2r49/](https://osf.io/m2r49/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+**Huensch, A.**, & Nagle, C. (2023). Revisiting the moderating effect of speaker proficiency on the relationships among intelligibility, comprehensibility, and accentedness in L2 Spanish. *Studies in Second Language Acquisition, 45*, 571-585. [https://doi.org/10.1017/S0272263122000213]( https://doi.org/10.1017/S0272263122000213){target="_blank"}
+
+**data and analysis code**: [https://osf.io/4p7r8/](https://osf.io/4p7r8/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
 ## Book Chapters
 
 \*Leal-Arenas, S., and **Huensch, A.** (accepted). Using Memoji facial gestures to enhance L2 word stress perception. In E. Tergujeff & A. Kirkova-Naskova (Eds.), *Achievements in L2 Pronunciation*.
