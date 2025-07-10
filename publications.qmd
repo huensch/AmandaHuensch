@@ -28,7 +28,7 @@ Tracy-Ventura, N., **Huensch, A.**, Katz, J., & Mitchell, R. (2025). Is L2 attri
 
 **data, materials, and analysis code**: [https://osf.io/fxzvj/](https://osf.io/fxzvj/){target="_blank"}
 
-**preregistration**: [https://osf.io/w4gj2 ](https://osf.io/w4gj2 ){target="_blank"}
+**preregistration**: [https://osf.io/w4gj2](https://osf.io/w4gj2){target="_blank"}
 
 **Award**: [2024 IRIS Replication Award](https://www.iris-database.org/replication-award/)  
 
@@ -59,6 +59,24 @@ Nagle, C., **Huensch, A.**, & Zárate-Sández, G. (2023). Exploring phonetic pre
 **Huensch, A.**, & Nagle, C. (2023). Revisiting the moderating effect of speaker proficiency on the relationships among intelligibility, comprehensibility, and accentedness in L2 Spanish. *Studies in Second Language Acquisition, 45*, 571-585. [https://doi.org/10.1017/S0272263122000213]( https://doi.org/10.1017/S0272263122000213){target="_blank"}
 
 **data and analysis code**: [https://osf.io/4p7r8/](https://osf.io/4p7r8/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+Liu, M., Chong, S. W., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A. H., Plonsky, L., Bolibaugh, C., Hiver, P., Winke, P., **Huensch, A.**, & Hui, B. (2023). Open scholarship in applied linguistics: What, why, and how. *Language Teaching, 56*, 432-437. [https://doi.org/10.1017/S0261444822000349]( https://doi.org/10.1017/S0261444822000349){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+\*Chau, T., **Huensch, A.**, Hoang, Y. K., & Chau, H. T. (2022). The effects of L2 pronunciation instruction on EFL learners’ intelligibility and fluency in spontaneous speech. [*TESOL-EJ*](https://tesl-ej.org/wordpress/issues/volume25/ej100/ej100a7/){target="_blank"}, *25*(4).
+
+<center><hr style="width:50%"></center>
+
+**Huensch, A.**, & Nagle, C. (2021). The effect of speaker proficiency on intelligibility, comprehensibility, and accentedness in L2 Spanish: A conceptual replication. *Language Learning, 72*, 626-668. [https://doi.org/10.1111/lang.12451]( https://doi.org/10.1111/lang.12451){target="_blank"}
+
+**data, materials, and analysis code**: [https://osf.io/4j5cr/](https://osf.io/4j5cr/){target="_blank"}
+
+**preregistration**: [https://osf.io/h592g](https://osf.io/h592g){target="_blank"}
+
+**Award**: [2022 IRIS Replication Award](https://www.iris-database.org/replication-award/)  
 
 <center><hr style="width:50%"></center>
 
