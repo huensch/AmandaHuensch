@@ -10,7 +10,6 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - research.qmd
       - href: Huensch_CV.pdf
         text: CV
         target: _blank
@@ -19,7 +18,6 @@ website:
         href: https://github.com/huensch/AmandaHuensch
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2025, Amanda Huensch"
 
 format:
   html:
