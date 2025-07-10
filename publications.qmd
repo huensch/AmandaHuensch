@@ -18,6 +18,20 @@ Note: \* graduate student advisee;
 
 <center><hr style="width:50%"></center>
 
+Tracy-Ventura, N., **Huensch, A.**, Katz, J., & Mitchell, R. (2025). Is L2 attrition inevitable after instruction ends? An exploratory longitudinal study of advanced instructed L2 users. *Language Learning, 75*, 42-76. [https://doi.org/10.1111/lang.12665](https://doi.org/10.1111/lang.12665){target="_blank"}
+
+**data and analysis code**: [https://osf.io/sypbn/](https://osf.io/sypbn/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+**Huensch, A.** (2024). Clarifying the role of inhibitory control in L2 phonological processing: A preregistered, close replication of Darcy et al. (2016). *Studies in Second Language Acquisition, 46*, 1392-1412. [https://doi.org/10.1017/S0272263124000238]( https://doi.org/10.1017/S0272263124000238){target="_blank"}
+
+**data, materials, and analysis code**: [https://osf.io/fxzvj/](https://osf.io/fxzvj/){target="_blank"}
+
+**preregistration**: [https://osf.io/w4gj2 ](https://osf.io/w4gj2 ){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
 ## Book Chapters
 
 \*Leal-Arenas, S., and **Huensch, A.** (accepted). Using Memoji facial gestures to enhance L2 word stress perception. In E. Tergujeff & A. Kirkova-Naskova (Eds.), *Achievements in L2 Pronunciation*.
