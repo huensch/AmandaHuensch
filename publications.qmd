@@ -128,7 +128,7 @@ Kim, J., Chim, Y., **Huensch, A.**, Jun, H., Li, H., & Roullion, V. (2010). A ca
 
 <center><hr style="width:50%"></center>
 
-Yoon, S., Pierce, L., **Huensch, A.**, Juul, E., Perkins, S., Sproat, R., & Hasegawa-Johnson, M. (2009). Construction of a rated speech corpus of L2 learners' speech. *CALICO Journal, 26*, 662-673.
+Yoon, S., Pierce, L., **Huensch, A.**, Juul, E., Perkins, S., Sproat, R., & Hasegawa-Johnson, M. (2009). Construction of a rated speech corpus of L2 learners' speech. *CALICO Journal, 26*, 662-673. [pdf](/files/Yoon_etal2009.pdf){target="_blank"}
 
 <center><hr style="width:50%"></center>
 
@@ -150,15 +150,15 @@ Yoon, S., Pierce, L., **Huensch, A.**, Juul, E., Perkins, S., Sproat, R., & Hase
 
 <center><hr style="width:50%"></center>
 
-**Huensch, A.**, & Staples, S. (2022). Spoken corpora. In T. Derwing, M. Munro, & R. Thomson (Eds.), *Handbook of SLA and Speaking* (pp. 112-129). Routledge.
+**Huensch, A.**, & Staples, S. (2022). Spoken corpora. In T. Derwing, M. Munro, & R. Thomson (Eds.), *Handbook of SLA and Speaking* (pp. 112-129). Routledge. [pdf](/files/Huensch_Staples2022.pdf){target="_blank"}
 
 <center><hr style="width:50%"></center>
 
-**Huensch, A.** (2021). Fluency. In N. Tracy-Ventura & M. Paquot (Eds.), *The Routledge Handbook of SLA and Corpora* (pp. 293-304). Routledge.
+**Huensch, A.** (2021). Fluency. In N. Tracy-Ventura & M. Paquot (Eds.), *The Routledge Handbook of SLA and Corpora* (pp. 293-304). Routledge. [pdf](/files/Huensch2021.pdf){target="_blank"}
 
 <center><hr style="width:50%"></center>
 
-Tracy-Ventura, N., **Huensch, A.**, Mitchell, R. (2021). Understand the long-term evolution of L2 lexical diversity: The contribution of a longitudinal learner corpus. In B. Le Bruyn & M. Paquot (Eds.), *Learner Corpora and Second Language Acquisition*. Cambridge University Press.
+Tracy-Ventura, N., **Huensch, A.**, Mitchell, R. (2021). Understand the long-term evolution of L2 lexical diversity: The contribution of a longitudinal learner corpus. In B. Le Bruyn & M. Paquot (Eds.), *Learner Corpora and Second Language Acquisition*. Cambridge University Press. [pdf](/files/TracyVentura_Huensch_Mitchell2021.pdf){target="_blank"}
 
 <center><hr style="width:50%"></center>
 
