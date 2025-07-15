@@ -128,6 +128,10 @@ Kim, J., Chim, Y., **Huensch, A.**, Jun, H., Li, H., & Roullion, V. (2010). A ca
 
 <center><hr style="width:50%"></center>
 
+Yoon, S., Pierce, L., **Huensch, A.**, Juul, E., Perkins, S., Sproat, R., & Hasegawa-Johnson, M. (2009). Construction of a rated speech corpus of L2 learners' speech. *CALICO Journal, 26*, 662-673.
+
+<center><hr style="width:50%"></center>
+
 ## Book Chapters
 
 \*Leal-Arenas, S., and **Huensch, A.** (accepted). Using Memoji facial gestures to enhance L2 word stress perception. In E. Tergujeff & A. Kirkova-Naskova (Eds.), *Achievements in L2 Pronunciation*. Cambridge University Press.
