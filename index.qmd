@@ -10,7 +10,7 @@ about:
 
 I am Associate Professor in the [Department of Linguistics](https://www.linguistics.pitt.edu/){target="_blank"} at the University of Pittsburgh. I teach courses in second language acquisition, phonetics, and L2 speech perception and production. I am currently Associate Editor for Open Science of [*Applied Psycholinguistics*](https://www.cambridge.org/core/journals/applied-psycholinguistics){target="_blank"} and [*The Modern Language Journal*](https://onlinelibrary.wiley.com/journal/15404781){target="_blank"}.
 
-My research examines second language speech development in and outside of the classroom, including the relationship between speech perception and production, fluency development, and the relationships among inhibitory control, domain-general auditory processing, and L2 perception/production skills.
+My research examines second language speech development in and outside of the classroom, including the relationship between speech perception and production, fluency development, and the relationships among inhibitory control, domain-general auditory processing, and L2 perception/production skills. I am also interested in transparency and openness practices such as preregistration and data/materials sharing.
 
 My most recent work has been published in *Language Learning*, *Studies in Second Language Acquisition*, and *TESOL Quarterly*. I received my PhD in Linguistics and Second Language Studies from the University of Illinois at Urbana-Champaign.
 
