@@ -12,6 +12,12 @@ Note: \* graduate student co-author
 
 ## Journal Articles
 
+\*Leal-Arenas, S., and **Huensch, A.** (2026). Seeing sounds: *Memojis* and L2 speech perception in noisy condutions. *Hispania, 109*(2), 239-253. [https://doi.org/10.1353/hpn.2026.a991605 ](https://doi.org/10.1353/hpn.2026.a991605 ){target="_blank"}
+
+**Materials**: [https://osf.io/7jyn5/](https://osf.io/7jyn5/){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
 \*Chau, T., and **Huensch, A.** (2025). The relationships among L2 fluency, intelligibility, comprehensibility, and accentedness: A meta-analysis. *Studies in Second Language Acquisition*. [https://doi.org/10.1017/S0272263125000014](https://doi.org/10.1017/S0272263125000014){target="_blank"}
 
 **data, materials, and analysis code**: [https://osf.io/dtp8z/](https://osf.io/dtp8z/){target="_blank"}
