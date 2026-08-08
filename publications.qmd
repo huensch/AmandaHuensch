@@ -12,9 +12,21 @@ Note: \* graduate student co-author
 
 ## Journal Articles
 
+**Huensch, A.**, & Nagle, C. (2026). The L2 Spanish listeners rating database (L2SLRD): L2 Spanish speech rated for intelligibility, comprehensibility, an accentedness. *Studies in Second Language Acquisition*. [https://doi.org/10.1017/S0272263126101867](https://doi.org/10.1017/S0272263126101867){target="_blank"}
+
+**data and materials**: [https://osf.io/67nm4/](https://osf.io/67nm4/overview){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
+**Huensch, A.**, Kim, M. J., & Crowther, D. (2026). Pronunciation for less commonly taught languages: Teaching beliefs and practices. *Language Teaching Research*.  [https://doi.org/10.1177/13621688261451407](https://doi.org/10.1177/13621688261451407){target="_blank"}
+
+**data and materials**: [https://osf.io/g83z7/](https://osf.io/g83z7/overview){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
 \*Leal-Arenas, S., and **Huensch, A.** (2026). Seeing sounds: *Memojis* and L2 speech perception in noisy condutions. *Hispania, 109*(2), 239-253. [https://doi.org/10.1353/hpn.2026.a991605 ](https://doi.org/10.1353/hpn.2026.a991605 ){target="_blank"}
 
-**Materials**: [https://osf.io/7jyn5/](https://osf.io/7jyn5/){target="_blank"}
+**materials**: [https://osf.io/7jyn5/](https://osf.io/7jyn5/){target="_blank"}
 
 <center><hr style="width:50%"></center>
 
@@ -27,6 +39,8 @@ Note: \* graduate student co-author
 Tracy-Ventura, N., **Huensch, A.**, Katz, J., & Mitchell, R. (2025). Is L2 attrition inevitable after instruction ends? An exploratory longitudinal study of advanced instructed L2 users. *Language Learning, 75*, 42-76. [https://doi.org/10.1111/lang.12665](https://doi.org/10.1111/lang.12665){target="_blank"}
 
 **data and analysis code**: [https://osf.io/sypbn/](https://osf.io/sypbn/){target="_blank"}
+
+**Award**: [2026 NFMLTA Paul Pimsleur Award for Research in World Language Education](https://www.actfl.org/career-development/actfl-awards/actfl-professional-awards/pimsleur)
 
 <center><hr style="width:50%"></center>
 
