@@ -12,6 +12,10 @@ Note: \* graduate student co-author
 
 ## Journal Articles
 
+Thomson, R., Derwing, T., Cebrian, J., Crowther, D., Darcy, I., Fouz-Gonzalez, J., **Huensch, A.**, Inceoglu, I., Jones, J., Kang, O., Karas, M., Levis, J., Martin, U., Mora, J. C., Nagle, C., Uchihara, T., Yates, L., & Zielinski, B. (Online First). Blue-sky thinking about pronunciation research and teaching. *Journal of Second Language Pronunciation*. https://doi.org/10.1075/jslp.26075.gar [pdf](/files/Thomson_etal2026.pdf){target="_blank"}
+
+<center><hr style="width:50%"></center>
+
 **Huensch, A.**, & Nagle, C. (2026). The L2 Spanish listeners rating database (L2SLRD): L2 Spanish speech rated for intelligibility, comprehensibility, an accentedness. *Studies in Second Language Acquisition*. [https://doi.org/10.1017/S0272263126101867](https://doi.org/10.1017/S0272263126101867){target="_blank"}
 
 **data and materials**: [https://osf.io/67nm4/](https://osf.io/67nm4/overview){target="_blank"}
