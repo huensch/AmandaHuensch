@@ -24,7 +24,7 @@ Thomson, R., Derwing, T., Cebrian, J., Crowther, D., Darcy, I., Fouz-Gonzalez, J
 
 **Huensch, A.**, Kim, M. J., & Crowther, D. (2026). Pronunciation for less commonly taught languages: Teaching beliefs and practices. *Language Teaching Research*.  [https://doi.org/10.1177/13621688261451407](https://doi.org/10.1177/13621688261451407){target="_blank"}
 
-**data and materials**: [https://osf.io/g83z7/](https://osf.io/g83z7/overview){target="_blank"}
+**data, materials, and analysis code**: [https://osf.io/g83z7/](https://osf.io/g83z7/overview){target="_blank"}
 
 <center><hr style="width:50%"></center>
 
